@@ -6,7 +6,7 @@ public class EmpView {
 
 	public static void main(String []args){
 		Employee emp=new Employee();
-		emp.setEmpId(1002);
+		emp.setEmpId(1003);
 		emp.setName("mark");
 		System.out.println(emp.getEmpId()+" "+emp.getName());
 	}
