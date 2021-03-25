@@ -16,5 +16,6 @@ public class Employee {
 		this.name = name;
 	}
 	int a;
+	int b;
 
 }
