@@ -15,7 +15,6 @@ public class Employee {
 	public void setName(String name) {
 		this.name = name;
 	}
-	int a;
-	int b;
+	
 
 }
